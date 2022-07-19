@@ -1,0 +1,7 @@
+/* Elapsed Time & Duration */
+.time {
+  margin-right: 15px;
+  color: var(--font-color);
+  font-weight: bold;
+  user-select: none;
+}

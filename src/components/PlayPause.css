@@ -1,0 +1,17 @@
+/* Play & Pause */
+.play-controls {
+  margin-right: 15px;
+}
+
+.fa-play:hover,
+.fa-pause:hover,
+.fa-backward:hover,
+.fa-forward:hover {
+  color: var(--primary-color);
+  cursor: pointer;
+}
+
+.fa-backward,
+.fa-forward {
+  font-size: 30px !important;
+}
